@@ -62,11 +62,12 @@ The app will run at 👉 `http://127.0.0.1:8000/`
 
 ```
 ├── app.py               # Main FastAPI application
-├── templates/
-│   └── index.html       # Frontend (Tailwind + JS)
+├── NABARD (1).mp4
+├── requirements.txt
 ├── users.db             # SQLite database (auto-created)
 └── README.md            # Documentation
 ```
+
 
 ---
 
